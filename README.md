@@ -116,6 +116,7 @@ src="https://streak-stats.demolab.com/?user=shariarehossain&theme=dark&hide_bord
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </p>
 
 ---
