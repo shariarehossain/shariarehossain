@@ -1,18 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20,24,30&text=Shariare%20Hossain&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Software%20Engineering%20Student&descAlignY=72&descSize=18"/>
+<!-- ================= HEADER ================= -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shariare Hossain</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Python+Developer;Java+Learner;Full-Stack+Web+Developer;Exploring+Software+Engineering;Always+Learning+New+Technologies" alt="Typing SVG"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineering+Student;Python+Developer;Java+Learner;Full-Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
 Building reliable software through continuous learning, practical projects, and modern development practices.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shariarehossain&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shariarehossain?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/shariarehossain?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
-## 💫 About Me
+---
+
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif"/>
 
 ✨ Passionate about programming, problem-solving, and building meaningful software solutions.
 
@@ -27,14 +35,14 @@ Building reliable software through continuous learning, practical projects, and 
 
 ### 🎯 Goal
 
-To become a skilled software engineer by continuously learning, building impactful projects, and writing clean, maintainable software.
+Become a skilled Software Engineer by building impactful projects and writing clean, maintainable code.
+
+---
 
 <div align="center">
 
-> **🌱 Learn • 💻 Code • 🚀 Build • ✨ Improve**
+### 🌱 Learn • 💻 Code • 🚀 Build • ✨ Improve
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20,24,30&section=footer"/>
+---
