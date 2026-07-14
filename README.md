@@ -1,5 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm SHARIARE HOSSAIN</h1>
-<h3 align="center">Software Engineering Student </h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=shariarehossain">
