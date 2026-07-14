@@ -1,14 +1,18 @@
-# 💫 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20,24,30&text=Shariare%20Hossain&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Software%20Engineering%20Student&descAlignY=72&descSize=18"/>
 
 <div align="center">
 
-# 👋 Hi, I'm **Shariare Hossain**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Python+Developer;Java+Learner;Full-Stack+Web+Developer;Exploring+Software+Engineering;Always+Learning+New+Technologies" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Python+Developer;Java+Learner;Full-Stack+Web+Developer;Exploring+Software+Engineering;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
 </div>
 
----
+<p align="center">
+Building reliable software through continuous learning, practical projects, and modern development practices.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
+
+## 💫 About Me
 
 ✨ Passionate about programming, problem-solving, and building meaningful software solutions.
 
@@ -31,6 +35,6 @@ To become a skilled software engineer by continuously learning, building impactf
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:58A6FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20,24,30&section=footer"/>
