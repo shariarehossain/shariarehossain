@@ -176,7 +176,7 @@ src="https://streak-stats.demolab.com/?user=shariarehossain&theme=dark&hide_bord
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=windows" height="45"/>
+<img src="https://skillicons.dev/icons?i=windows,linux" height="45"/>
 
 </p>
 
