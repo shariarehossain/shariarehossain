@@ -12,6 +12,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+Software+Engineering+Student;%F0%9F%92%BB+Developer;%F0%9F%9A%80+Future+Software+Engineer" alt="Typing SVG" />
 </h3>
 
+
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"/>
+
+</div>
+
+
+
+
 <!-- ========================================================= -->
 <!--                    PROFILE BADGES                          -->
 <!-- ========================================================= -->
@@ -32,6 +45,21 @@
 
 </p>
 
+
+
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"/>
+
+</div>
+
+
+
+
+
 <!-- ========================================================= -->
 <!--                         BANNER                             -->
 <!-- ========================================================= -->
@@ -41,6 +69,21 @@
 <!-- ========================================================= -->
 <!--                     ABOUT / FOCUS                          -->
 <!-- ========================================================= -->
+
+
+
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"/>
+
+</div>
+
+
+
+
 
 ## 🧠 My Focus Areas
 
@@ -60,6 +103,18 @@
 - ❄️ Always Learning Something New
 
 ---
+
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"/>
+
+</div>
+
+
+
 
 <!-- ========================================================= -->
 <!--                    GITHUB STATS                            -->
@@ -193,6 +248,17 @@ src="https://streak-stats.demolab.com/?user=shariarehossain&theme=dark&hide_bord
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 
 </p>
+
+
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"/>
+
+</div>
+
 
 
 
